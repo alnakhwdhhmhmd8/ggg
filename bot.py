@@ -6,7 +6,7 @@ from asBASE import asJSON
 
 db = asJSON("as.json")
 
-TOKEN = "8469110218:AAF4oz1yF7L9yQ06aMZuv0a_8GGFgLnwEKw"
+TOKEN = "8469110218:AAFWdVLT_4iidXFmuS1UaPEr0ItuZivSjCs"
 
 SUDORS = [7728230165, 7728230165]
 DEVELOPERS = ["wwvvwl","wwvvwl"]
